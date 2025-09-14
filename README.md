@@ -21,19 +21,14 @@
 </p>
 
 - Projects at work 🔭
-  - PyFuting : A fifa ultimate team trading api, that can fetch price history of players based on futbin data.
-  - Family-app : A app that renders cool family tree results and helps keep track of family status.
-  - Lazy B : A samsung active gear app that monitors your momvement heatmap and creates leaderboards with friends. 
-  - Leah : A super cool rpg game ( on works )
+  - Leia : A tracker capable of tracking contact relations, tasks and events.
 - Education 🌱
   - Data Science Major (2k22) at [PSG College of Technology](https://www.psgtech.edu/)
 - Currently playing 🎮
   - [Fornite](https://www.epicgames.com/fortnite/en-US/home)
 - Interested to collaborate on 🙌
-  - Deep Learning
-  - Computer Vision
-  - Visual Art generation
-  - Automating
+  - Agentic architecture
+  - Automation tasks
   - Personalization
 
 
