@@ -31,9 +31,7 @@
   - Automation tasks
   - Personalization
 
-
-| ![Joel's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=joeloffbeat&show_icons=true) | ![Joel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeloffbeat) |
-| -- | -- |
+![Joel's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joeloffbeat)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=joeloffbeat)
 <!--![hello](https://cdn.fortnite-api.com/stats/v2/a9aac4d12cce9b797190d8022deda8b6546443b7.png)-->
