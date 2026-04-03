@@ -66,15 +66,25 @@ Diving into **data pipelines** — ETL workflows, data engineering patterns, and
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joeloffbeat&show_icons=true&theme=default&hide_border=true" alt="Joel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=joeloffbeat&show_icons=true&hide_border=true&bg_color=f5e6c8&title_color=5c3d1e&text_color=4a2e0a&icon_color=7a9e6f&border_color=c4a882&rank_icon=github" alt="Joel's GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeloffbeat&layout=compact&hide_border=true&bg_color=f5e6c8&title_color=5c3d1e&text_color=4a2e0a&border_color=c4a882" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=joeloffbeat&hide_border=true" alt="Joel's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=joeloffbeat&hide_border=true&background=f5e6c8&border=c4a882&ring=7a9e6f&fire=c17f24&currStreakNum=5c3d1e&sideNums=5c3d1e&currStreakLabel=5c3d1e&sideLabels=4a2e0a&dates=4a2e0a&stroke=c4a882" alt="Joel's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeloffbeat&hide_border=true&area=true" alt="Joel's Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeloffbeat&hide_border=true&bg_color=f5e6c8&color=4a2e0a&line=7a9e6f&point=5c3d1e&area=true&area_color=7a9e6f&title_color=5c3d1e" alt="Joel's Activity Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joeloffbeat&theme=gruvbox&no-frame=true&row=1&margin-w=8" alt="Joel's Trophies" />
+</p>
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contribution Graph" />
 </p>
 
 <p align="center">
