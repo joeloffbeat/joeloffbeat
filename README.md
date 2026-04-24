@@ -42,5 +42,9 @@
 ### github
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joeloffbeat&hide_border=true&bg_color=0d1117&color=7d8590&line=3fb950&point=3fb950&area=true&area_color=3fb950&title_color=3fb950" alt="Joel's Activity Graph" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=joeloffbeat&hide_border=true&background=0d1117&border=21262d&ring=3fb950&fire=3fb950&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=3fb950&sideLabels=7d8590&dates=7d8590" alt="Joel's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/3fb950/joeloffbeat" alt="Joel's Contribution Graph" />
 </p>
